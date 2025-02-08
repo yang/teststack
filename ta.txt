@@ -1,0 +1,3 @@
+ta.txt
+test-amend-1fa21ef7
+First commit
