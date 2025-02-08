@@ -1,0 +1,3 @@
+tc.txt
+test-amend-ea8ea1c9
+Third commit
