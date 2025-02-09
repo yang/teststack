@@ -1,2 +1,2 @@
 test_merge1.txt
-line 1 - 06fbbfd8
+line 1 - a45b744a
