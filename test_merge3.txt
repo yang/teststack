@@ -1,2 +1,2 @@
 test_merge3.txt
-line 1 - a31e47de
+line 1 - 888e2e1b
