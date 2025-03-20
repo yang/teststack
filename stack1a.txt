@@ -1,0 +1,2 @@
+stack1a.txt
+line 1
