@@ -1,2 +1,2 @@
 test_merge1.txt
-line 1 - 40278aaf
+line 1 - cc4ba060
