@@ -1,1 +1,2 @@
 Content of file A
+Modified by B
